@@ -5,13 +5,13 @@
 
 Term: Fall 2022
 
-+ Team ##
++ Team #9
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Kolluri, Sameer
+	+ Laddha, Shubham
+	+ Li, Jenny
+	+ Nguyen, Kieu-Giang
+	+ Yin, Yuli
 
 + Project summary: In this project, we created ...
 	
